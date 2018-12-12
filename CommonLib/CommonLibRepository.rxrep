@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="CommonLibRepository"
+id="83c9fa06-6274-47f4-841a-51eba9aad8a0"
+rxversion="8.3">
+  <codegen
+  classname="CommonLibRepository"
+  namespace="CommonLib"/>
+  <rootfolder
+  name="Root"
+  id="ea57afbf-3d64-4c9b-9d71-8b6953a60fce"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

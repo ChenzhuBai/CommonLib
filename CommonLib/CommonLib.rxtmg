@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.3">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="CommonLib"
+      id="4b6ed464-2388-423b-9dd0-3ebca372b76d"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="CommonLib"
+      id="4b6ed464-2388-423b-9dd0-3ebca372b76d"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
